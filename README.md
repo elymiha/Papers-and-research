@@ -1,6 +1,9 @@
 # Papers-and-research
 
 I have written several reports during my studies which I am reluctant keeping just for myself since they contain useful insights that could be of interest and beneficial to someone digging into the same topics.
+
+BE AWARE that the reports are in pdf format thus you must DOWNLOAD them!
+
 Hope you will find some of the below papers worth reading ;)
 
 ### Continuous Density Hidden Markov model 
